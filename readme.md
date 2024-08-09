@@ -1,5 +1,10 @@
 # Image Segmentation using Gaussian Mixture Model and Expectation Maximization
 
+![ig3](https://github.com/user-attachments/assets/66e49f59-d2d6-4431-a650-5c6fbd21fcad)
+![ig2](https://github.com/user-attachments/assets/97e02a64-1202-4c78-a96e-7d74d869e9c5)
+![ig1](https://github.com/user-attachments/assets/bb162bc0-8ba3-475a-8164-3e5833b11c55)
+
+
 ## Project Overview
 
 This project demonstrates the segmentation of grayscale and color images using a Gaussian Mixture Model (GMM) and the Expectation-Maximization (EM) algorithm. The project applies these advanced machine learning techniques to segment images effectively, providing a comprehensive approach to image segmentation.
